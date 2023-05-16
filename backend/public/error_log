@@ -1,0 +1,65 @@
+[09-Feb-2023 18:59:59 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php:871
+Stack trace:
+#0 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(871): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(834): Illuminate\Container\Container->resolveDependencies()
+#2 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build()
+#3 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve()
+#4 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#5 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build()
+#6 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve()
+#7 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make()
+#8 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make()
+#9 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#12 {main}
+  thrown in /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 871
+[09-Feb-2023 19:00:55 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php:871
+Stack trace:
+#0 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(871): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(834): Illuminate\Container\Container->resolveDependencies()
+#2 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build()
+#3 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve()
+#4 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#5 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build()
+#6 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve()
+#7 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make()
+#8 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make()
+#9 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#12 {main}
+  thrown in /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 871
+[09-Feb-2023 19:02:42 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php:871
+Stack trace:
+#0 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(871): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(834): Illuminate\Container\Container->resolveDependencies()
+#2 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build()
+#3 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve()
+#4 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#5 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build()
+#6 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve()
+#7 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make()
+#8 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make()
+#9 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#11 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#12 {main}
+  thrown in /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 871
+[09-Feb-2023 19:02:42 UTC] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php:871
+Stack trace:
+#0 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(871): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(834): Illuminate\Container\Container->resolveDependencies()
+#2 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build()
+#3 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve()
+#4 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(799): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#5 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build()
+#6 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve()
+#7 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make()
+#8 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(170): Illuminate\Foundation\Application->make()
+#9 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#11 /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 {main}
+  thrown in /home/neuronpr/public_html/clients/sor/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 871
