@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91577913124",
+    "project_id": "masaruna-ac732",
+    "storage_bucket": "masaruna-ac732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91577913124:android:e485eeaa38be57761d6db1",
+        "android_client_info": {
+          "package_name": "com.example.masaruna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91577913124-f2u8paajihouund5tis9eiqterimppsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9I-IPzJ5N2zp5kkxC6g3r7nnb8foIkU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91577913124-f2u8paajihouund5tis9eiqterimppsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
