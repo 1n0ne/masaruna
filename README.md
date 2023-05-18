@@ -22,4 +22,4 @@ Click <a href="https://drive.google.com/file/d/1a0vpNSj-yZDrVmlAnDktv5bB427LdobP
 git clone https://github.com/1n0ne/masaruna
 ```
 <h1>License </h1>
-MIT
+ GNU GPLv3 
