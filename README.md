@@ -7,7 +7,11 @@ suitable drivers, determining course times for students,
 or tracking drivers’ paths.
 <h1>DEMO </h1>
 Click <a href="https://drive.google.com/file/d/1a0vpNSj-yZDrVmlAnDktv5bB427LdobP/view?usp=sharing">her</a> to see the Demo
-
+<h1>Collaborator</h1>
+<li><a href="https://github.com/lujainalia">Lujain Alshehri</a></li>
+<li><a href="https://github.com/MahaAlOtibi">Maha AlOtibi</a></li>
+<li><a href="https://github.com/MarahEbrahim">Marah Al-harthi</a></li>
+<li><a href="https://github.com/ShaimaAlshalawi">Shaima Alshalawi</a></li>
 <h1>Prerequisites </h1>
 <ul>
   <li>install flutter </li>
