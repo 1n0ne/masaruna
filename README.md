@@ -64,6 +64,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <li>Maha AlOtibi
   <a href="https://github.com/MahaAlOtibi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="MahaAlOtibi" height="20" width="30" /></a>
+    <a href="https://www.linkedin.com/in/maha-alotibi-386a51267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maha Alotibi" height="20" width="30" /></a>
 </li>
 
 <li>Marah Al-harthi
