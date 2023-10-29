@@ -79,6 +79,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <li>Rawan Alamri
   <a href="https://github.com/askro333" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="askro333" height="20" width="30" /></a>
+    <a href="https://www.linkedin.com/in/rawan-alamri-40373528a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rawan alamri" height="20" width="30" /></a>
 </li>
 
 <li>Shaima Alshalawi
